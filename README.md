@@ -15,7 +15,7 @@ Our community is spread across various services and maintained by various people
 
 * [**💻 GitHub @bioinformatics-ukraine**](https://github.com/bioinformatics-ukraine) - run by [administrators](https://github.com/orgs/bioinformatics-ukraine/people?utf8=%E2%9C%93&query=role%3Aowner+)
 * [**👥 Facebook Group**](https://www.facebook.com/groups/bioinformaticsUA) - run by Maryna Korshevniuk[@????](https://github.com/?????) 
-* [**💬 Telegram chat**](https://t.me/joinchat/CHZ6jUNghHbchyfSUbg5tA) - run by Alexander Shynkarenko[@????](https://github.com/?????)
+* [**💬 Telegram chat**](https://t.me/joinchat/CHZ6jUNghHbchyfSUbg5tA) - run by Alexander Shynkarenko[@wreport](https://github.com/?????)
 
 ---
 
