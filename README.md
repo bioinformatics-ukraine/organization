@@ -32,14 +32,10 @@ TBW
 ## Events
 
 Planned:
-* Bioinformatics MeetUp in Kyiv #2 (22 August 2017)
-
-   Where: TBD
-   [URL TBD]()
+* Bioinformatics MeetUp in Kyiv #2 (22 August 2017) [URL TBD]()
++ Where: TBD
 
 Passed events:
-* Bioinformatics MeetUp in Kyiv #1 (24 July 2017)
-
-   Where: [Data Root](https://www.facebook.com/dataroot.consulting) Kiev, Polova street, 21 
-   [URL](https://www.facebook.com/events/1750930518539936)
-   [Atrticle](http://telegra.ph/Bioinformatics-MeetUp-in-Kyiv-1-07-25)
+* Bioinformatics MeetUp in Kyiv #1 (24 July 2017) [URL](https://www.facebook.com/events/1750930518539936)
++ Where: [Data Root](https://www.facebook.com/dataroot.consulting) Kiev, Polova street, 21 
++ [Atrticle](http://telegra.ph/Bioinformatics-MeetUp-in-Kyiv-1-07-25)
