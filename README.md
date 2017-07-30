@@ -38,4 +38,4 @@ Planned:
 Passed events:
 * Bioinformatics MeetUp in Kyiv #1 (24 July 2017) [URL](https://www.facebook.com/events/1750930518539936)
    + Where: [Data Root](https://www.facebook.com/dataroot.consulting) Kiev, Polova street, 21 
-   + [Atrticle](http://telegra.ph/Bioinformatics-MeetUp-in-Kyiv-1-07-25)
+   + [Article](http://telegra.ph/Bioinformatics-MeetUp-in-Kyiv-1-07-25)
