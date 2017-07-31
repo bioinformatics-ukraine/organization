@@ -5,7 +5,7 @@ This file for collecting usefull links.
 - [Courses](#courses)
 - [Software](#software)
 - [Other groups](#groups)
-
+- [Schools](#schools)
 
 ---
 
@@ -20,4 +20,9 @@ TBW
 ---
 
 ## Groups
+TBW
+
+---
+
+## Schools
 TBW
