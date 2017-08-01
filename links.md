@@ -4,8 +4,9 @@ This file for collecting usefull links.
 
 - [Courses](#courses)
 - [Software](#software)
-- [Other groups](#groups)
+- [Groups](#groups)
 - [Schools](#schools)
+- [Guides](#guides)
 
 ---
 
@@ -15,7 +16,8 @@ TBW
 ---
 
 ## Software
-TBW
+- https://github.com/danielecook/Awesome-Bioinformatics
+
 
 ---
 
@@ -25,4 +27,12 @@ TBW
 ---
 
 ## Schools
+
+- http://bioinformaticsinstitute.ru/summer2017
+
+
+---
+
+## Guides
+
 TBW
