@@ -32,8 +32,8 @@ TBW
 ## Events
 
 Planned:
-* Bioinformatics MeetUp in Kyiv #2 (22 August 2017) [URL TBD]()
-   + Where: TBD
+* Bioinformatics MeetUp in Kyiv #2 (22 August 2017, 19:00) [URL TBD]()
+   + Where: [iHUB](https://www.coworking.com.ua/ihub)
 
 Passed events:
 * Bioinformatics MeetUp in Kyiv #1 (24 July 2017) [URL](https://www.facebook.com/events/1750930518539936)
