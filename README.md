@@ -33,9 +33,9 @@ TBW
 
 Planned:
 * Bioinformatics MeetUp in Kyiv #2 (22 August 2017, 19:00) [URL TBD]()
-   + Where: [iHUB](https://www.coworking.com.ua/ihub)
+   + Where: [iHUB](https://www.coworking.com.ua/ihub) Kiev, Rybalska St, 22
 
 Passed events:
 * Bioinformatics MeetUp in Kyiv #1 (24 July 2017) [URL](https://www.facebook.com/events/1750930518539936)
-   + Where: [Data Root](https://www.facebook.com/dataroot.consulting) Kiev, Polova street, 21 
+   + Where: [Data Root](https://www.facebook.com/dataroot.consulting) Kiev, Polova St, 21 
    + [Article](http://telegra.ph/Bioinformatics-MeetUp-in-Kyiv-1-07-25)
